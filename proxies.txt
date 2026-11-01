@@ -1,0 +1,4 @@
+# one per line — residential proxies only
+# format:
+#   http://user:pass@host:port
+#   socks5://user:pass@host:port
